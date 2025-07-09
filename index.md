@@ -1,2 +1,4 @@
-Hi There.
-This is Vardaan's blog site.
+---
+layout: home
+title: "Vardaan's Blog Site"
+---
