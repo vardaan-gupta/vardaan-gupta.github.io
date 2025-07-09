@@ -1,4 +1,4 @@
 ---
-layout: home
+layout: page
 title: "Vardaan's Blog Site"
 ---
